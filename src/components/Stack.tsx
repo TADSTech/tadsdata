@@ -15,7 +15,7 @@ const Stack = () => {
                         <ul className="space-y-2 text-slate-600">
                             <li className="flex items-center">
                                 <span className="w-2 h-2 bg-blue-400 rounded-full mr-2"></span>
-                                Google Sheets (Advanced)
+                                SpreadSheets software (Sheets/Excel)
                             </li>
                             <li className="flex items-center">
                                 <span className="w-2 h-2 bg-blue-400 rounded-full mr-2"></span>
@@ -23,7 +23,7 @@ const Stack = () => {
                             </li>
                             <li className="flex items-center">
                                 <span className="w-2 h-2 bg-blue-400 rounded-full mr-2"></span>
-                                Looker Studio
+                                Visualizations (Looker/Tableau)
                             </li>
                         </ul>
                     </div>
@@ -59,7 +59,7 @@ const Stack = () => {
                             </li>
                             <li className="flex items-center">
                                 <span className="w-2 h-2 bg-slate-800 rounded-full mr-2"></span>
-                                Git (basic usage)
+                                Git
                             </li>
                         </ul>
                     </div>

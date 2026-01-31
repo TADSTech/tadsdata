@@ -6,7 +6,7 @@ const Experience = () => {
         <section className="py-20 bg-white">
             <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="mb-12">
-                    <h2 className="text-3xl font-bold text-slate-900 mb-4">Positioning</h2>
+                    <h2 className="text-3xl font-bold text-slate-900 mb-4">Who am I?</h2>
                     <div className="bg-blue-50 border-l-4 border-blue-600 p-6 rounded-r-lg">
                         <p className="text-xl text-slate-800 italic">
                             "Data & Operations Analyst focused on turning messy processes and datasets into clear, reliable insights using spreadsheets, SQL, and structured analysis. Strong emphasis on data quality, system auditing, and decision support."
